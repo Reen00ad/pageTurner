@@ -71,3 +71,5 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 ### 1. Event - CRUD
 ### 2. Reader - CRUD
 ### 3. Meeting - CRUD
+## Junit testing
+### 1. GoalsServiceTest
